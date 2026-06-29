@@ -1,0 +1,24 @@
+I forget to modify the spell level in the trait description (problem comes from copy and paste) but that is the least of my priorities. I noticed I was missing a prepared spell for the Iceologer so I added Frost Fingers to the 2014 statblock.
+
+With that out of the way, we move from offense to support with the Enchanter. Your suggested level for Enchanter is 5th level which is enough to grant it at most 2 3rd-level spells. 3 + 5 = 8 prepared spells that mostly focus on enhancing allies.
+
+Spellcasting. The illager is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The illager has the following wizard spells prepared:
+
+Cantrips (at will): frostbite, mage hand, mind sliver, prestidigitation
+1st level (4 slots): false life, mage armor, longstrider, protection from good and evil
+2nd level (3 slots): enhance ability, magic weapon
+3rd level (2 slots): counterspell, haste
+
+First with third level, since counterspell is a given there is only one slot open and I chose haste to fill the slot. It replicates the fast attack and provides additional speed to allies.
+For second level, we get enhance ability which provides an assortment of buffs and magic weapon enhances its allies' weapons.
+For first level, mage armor as it also needs to buff itself, longstrider for additional speed buffs, and protection from good and evil for the cases where one is encountered (which in Minecraft some are very common). To round it all of, I think False Life fits for additional survivability.
+
+For cantrips, the only buff is friends and I don't see Illagers making many of those, so I'll switch to debuffs instead. Shared with Iceologer, Frostbite imposes disadvantage on attack rolls in addition to its cold damage and Mind Sliver from Tasha's cauldron of everything which subtracts opponent's saving throws and deals psychic damage.
+
+Spellcasting. The illager casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 14, +6 to hit with spell attacks):
+
+At will: Detect Magic, Mind Sliver, Mage Hand, Prestidigitation
+2/day: Enhance Ability, Mage Armor (included in AC)
+1/day: Haste
+
+As a weaker spellcaster, mage armor has been moved down to 2/day leaving all at will spells to be cantrips. Haste as a 3rd level spell for this spellcaster is a 1/day spell and enhance ability is 2/day meaning it will have to be smart and choose who which ally would benefit more from these buffs. But it can debuff the party every turn if it wants to with Mind Sliver so it still helps its allies. It is just bordering between the strength of a mage apprentice and mages so I'm unsure whether it should keep both misty step bonus action and protective magic reaction (counterspell and shield). I feel like it can excuse one over the other but not both. Would my assumption be correct?

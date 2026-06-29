@@ -1,0 +1,14 @@
+Spellcasting. The illager is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The illager has the following wizard spells prepared:
+
+Cantrips (at will): mage hand, message, mind sliver, prestidigitation
+1st level (4 slots): alarm, detect magic, mage armor, magic missile
+2nd level (3 slots): hold person, misty step, levitate
+3rd level (3 slots): clairvoyance, counterspell, intellect fortress
+4th level (3 slots): charm monster, confusion
+5th level (1 slots): telekinesis
+
+Spellcasting. The illager casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 14, +6 to hit with spell attacks):</p>
+
+At will: Detect Magic, Mage Armor (included in AC), Mage Hand, Mind Sliver, Prestidigitation
+2/day: Hold Person, Levitate
+1/day: Confusion, Telekinesis

@@ -1,0 +1,31 @@
+Well, now only one spellcaster of the Illagers is left so lets get it out of the way.
+
+Illager Mage, possibly renamed Illager Psychic. Your recommended spellcaster level was level 8, though if we want telekinesis we'd have to increase the level by 1 at least.
+
+Spellcasting. The illager is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The illager has the following wizard spells prepared:
+
+Cantrips (at will): frostbite, mage hand, mind sliver, prestidigitation
+1st level (4 slots): arms of hadar, detect magic, mage armor
+2nd level (3 slots): earth bind, hold person, levitate
+3rd level (3 slots): counterspell
+4th level (3 slots): Evard's Black Tentacles
+5th level (1 slots): Telekinesis
+
+12 prepared spells like the other 9th level spellcasters. Telekinesis and levitate are fitting for its offensive approach. Earthbind (shared with geomancer) and hold person serve the opposite approach of holding creatures in place. If we want to lean to the aberrant connections, Evard's Black Tentacles and Warlock's Arms of Hadar do the trick; we can add hunger of hadar (3rd) or summon aberration (4th) if we really wanna lean into it. Mind Sliver (shared with enchanter) feels like it fits. There aren't really many "moving things with your mind" spells which means we're going to have to be creative with other options. I'm not including them yet on the statblock as I want to see my options. Dissonant Whispers (1st) and Eldritch Blast (Cantrip) are intriguing options if we go with Warlock inspirations and Raulothim's Psychic Lance (4th) from Fizban's makes sense if we go a more psychic route. Phantasmal Killer I'd like to keep on just the Illusionist. Charm Monster I like though I'm not sure how deep is the connection to the Heart of Ender/Orb of Dominance which are aberrant in origin. This one is actually tough. Out of 12 prepared spells there are only 9 selected. I'd like to replace frostbite for a more fitting cantrip. 1st level has a possible slot remaining and both 3rd level and 4th level do as well. There is only enough to choose 3 among 1st, 3rd, and 4th levels. How should I approach this? And are there spells I potentially missed.
+
+Spellcasting. The illager is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The illager has the following wizard spells prepared:
+
+Cantrips (at will): mage hand, mind sliver, prestidigitation, toll the dead
+1st level (4 slots): arms of hadar, detect magic, dissonant whispers, mage armor
+2nd level (3 slots): earth bind, hold person, levitate
+3rd level (3 slots): counterspell, hypnotic pattern
+4th level (3 slots): Evard's Black Tentacles, Raulothim’s Psychic Lance
+5th level (1 slots): Telekinesis
+
+Spellcasting. The illager casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 14, +6 to hit with spell attacks):</p>
+
+At will: Detect Magic, Mage Armor (included in AC), Mage Hand, Mind Sliver, Prestidigitation
+2/day: Hold Person, Levitate
+1/day: Telekinesis, Evard's Black Tentacles
+
+Not my preferred selection but It's what was available. I feel like when I actually get to making the statblock this illager will be the only one who will need a spell list revision. Intriguingly, 2025's spell list is more satisfactory than 2014's but I think that is to be expected with such limited options. When I get to it again I might need to check psionic spellcasters and compare spell selections to find if any are more fitting than the 2014 selection, but for now this'll do.

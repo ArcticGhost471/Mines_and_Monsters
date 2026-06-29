@@ -1,0 +1,25 @@
+Then lets get the final elemental spellcaster out of the way since like I said, I'm not working on them at the moment but I'd like to get their spell lists out of the way.
+
+7th level was suggested as well which includes up to 4th level spells. Unlike the others I'm more open to keeping it here unless Wall of Ice or Cone of Cold were really necessary to add flavor. Now that I look at it, most spellcasters will have minimum 16 Int which means all of the spellcasters will have a +3 bonus, the difference in prepared spells will have to come with spellcaster level. If we're going 9 or 10 its 12 or 13 prepared spells, if instead were going 7, its 10 spells. Let's see what we have to work with.
+
+The 2014 statblock might look as follows:
+
+Spellcasting. The illager is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The illager has the following wizard spells prepared:
+
+Cantrips (at will): frostbite, mage hand, ray of frost, prestidigitation
+1st level (4 slots): absorb elements, frost fingers, ice knife, mage armor
+2nd level (3 slots): rime's binding ice, snilloc's snowball swarm
+3rd level (3 slots): counterspell, wall of water, water breathing
+4rd level (1 slots): ice storm
+
+Ice Storm is the only Ice related spell at 4th level. Forgoing summon elemental as though water elementals can be equivalent, as they are loosely connected to ice and Ice storm is more thematic, ice storm overtakes summon elemental in this case. Other ice spells are 2nd level or lower leaving 3rd level free selection which for now I'll only return counterspell to the spell list. Rime's Binding Ice is an interesting spell from Fizban's Treasury of Dragons that provides control and cold damage in one go. Snilloc's Snowball Swarm is another thematic snow themed spell to go with a chilly spellcaster. Finally ice knife as the final ice thematic spell for the statblock. Now, we're mostly free to pick and choose so to try and stay as close to theme, we can search for water themed spells. Wall of Water makes sense defensively and so would water breathing if it ever finds itself underwater. Replacing one for other spellcaster's water walk (possibly water breathing) would make sense and could be interpreted as it forming ice to walk on water like the Frost Walker enchantment in Minecraft. Shape water makes sense as a loose thematic cantrip. For two final spells, absorb elements makes the most sense for iceologer as they are the only elemental spellcaster that can directly absorb its thematic damage type with it, cold. Finally ray of frost (I had forgotten frost was a word for a moment) for cantrips. Since I remembered frost as a word, we could replace shape water with frost bite instead and similarly, though absorb elements makes the most sense with iceologer, frost fingers from Icewind Dale: Rime of the Frostmaiden fits best as a more direct source of cold and ice.
+
+Among all of those, only a few appear in the 2025 Player's Handbook. That makes the 2025 spell list look as follows.
+
+Spellcasting. The illager casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 14, +6 to hit with spell attacks):
+
+At will: Detect Magic, Ray of Frost, Mage Armor (included in AC), Mage Hand, Prestidigitation
+2/day: Ice Knife (level 2 version)
+1/day: Ice Storm, Wall of Ice
+
+Ice Knife is somewhat strong, almost as strong as an arcane burst so upcast to put it on equal power and make it 2/day makes sense. Ice Storm as its 1/day attack also makes sense for this spell list, and ray of frost as an at will damage dealing spell makes more sense than making ice knife fit that role. I decided to make a trade of 2 2/day spells for 1 additional 1/day spell in the form of Wall of Ice. I think its a fair trade in terms of 2025 spells, though if it needs another 1/day spell we can pick and choose any (maybe water walk). Thoughts?

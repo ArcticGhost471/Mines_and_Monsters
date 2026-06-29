@@ -1,0 +1,26 @@
+I expected you'd provide a larger breakdown but I technically I already did most of the talking so I understand there wasn't much to add to it.
+
+In that case, continuing with the elemental spellcasters, next I'll go with the geomancer. You suggested 7th level which includes up to 4th level spells, however wall of stone is accessible at level 9 so well follow the same assumptions as the Wind Caller; 16-17 Int (+3) + 9th or 10th level spellcaster = 12 or 13 prepared spells.
+
+The 2014 statblock might look as follows:
+
+Spellcasting. The illager is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The illager has the following wizard spells prepared:
+
+Cantrips (at will): create bonfire, mage hand, mold earth, prestidigitation
+1st level (4 slots): catapult, earth tremor, mage armor
+2nd level (3 slots): earthbind, scorching ray
+3rd level (3 slots): dispel magic, erupting earth, wall of sand
+4rd level (3 slots): stone shape, stoneskin, summon elemental
+5rd level (1 slots): wall of stone
+
+Earth and stone flavored spells compose the spell list; from flavor like mold earth to defensive like wall of stone and offensive like erupting earth. Stone Shape can create weapons of stone if I read the spell correctly and summon elemental can summon earth elementals. scorching ray is here as an attacking spell mixing fire spells and earth shaping for a volcanic flair. For this reason I'm tempted to include fireball to give at least one spellcaster the spell but I'm holding off for now. Wall of Sand I think serves as a thematic alternative for wall of stone as 5th level only has one spell slot and replaced counterspell with dispel magic as, maybe its just me, but it makes it feel more caveman/natural; possible weird explanation, I know. Finally to add to the primitive feel, catapult and create bonfire, primitive weaponry compared to today and what humans used to cook without furnaces, ovens, stoves, etc.
+
+Most of the spells above come from Elemental Evil, so they are likely to not be in the 2025 Player's Handbook. In that case the 2025 version looks as follows.
+
+Spellcasting. The illager casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 14, +6 to hit with spell attacks):</p>
+
+At will: Detect Magic, Elementalism, Mage Armor (included in AC), Mage Hand, Prestidigitation
+2/day: Fireball (level 4 version), Stone shape, Stoneskin
+1/day: Wall of Stone
+
+More defensive and utility spells rather than the offensive earth spells in 2014 loosing many of them in the transition. It has fireball however; at least one statblock had to have the iconic spell. Elementalism is included (which I forgot to do so in the Wind Caller's spell list) which has Beckon Earth to add additional flavor.

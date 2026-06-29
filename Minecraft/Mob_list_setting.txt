@@ -1,0 +1,51 @@
+Allay
+Blaze
+Breeze
+-Camel
+-Camel Husk
+Creaking
+Creeper
+-Magma Cube
+-Slime
+-Sulfur Cube
+Ender Dragon
+Enderman
+-Endermite
+-Swarm of Endermites
+-Ghastling Offspring
+-Sad Ghastling
+-Happy Ghastling
+-Copper Golem
+-Iron Golem
+-Snow Golem
+-Guardian
+-Elder Guardian
+-Hoglin
+-Zoglin
+-Evoker
+-Pillager
+-Vindicator
+Nautilus
+Phantom
+-Piglin
+-Piglin Brute
+-Zombified Piglin
+Ravager
+Shulker
+-Silverfish
+-Swarm of Silverfish
+-Bogged
+-Parched
+-Stray
+-Wither Skeleton
+Sniffer
+Strider
+Vex
+Warden
+Witch
+Wither
+-Baby Zombie
+-Drowned
+-Husk
+-Zombie Nautilus
+-Zombie Horse

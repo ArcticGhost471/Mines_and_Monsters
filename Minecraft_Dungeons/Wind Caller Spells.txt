@@ -1,0 +1,45 @@
+I'm going make each statblock one by one as to discuss the option for individual thematic spells for each.
+
+First wind caller, the suggested level gives it access up to level 3 spells, which is fine for the most part, but Elemental Evil Player's Companion has some great thematic spells to pick from.
+
+7th level Whirlwind would put it above Illusioner who casts up to 5th level so as intriguing as that spell is, it has to be a skip. Same with Investiture of Wind at 6th level; it's great thematically but its too strong.
+
+5th level is the highest I'm willing to go (base mage is a 9th-level spellcaster at CR 6) and there are two spells in that level. Steel Wind Strike and Control Winds. Control Winds essentially combines both of Wind Caller's spells into one as it can make a gust of wind, a downdraft, or an updraft. The 2014 style statblock I'd like to add this spell but not the 2025 version as, though I can add it, I'd like to stick to spells in the 2025 Player's Handbook for the 2025 statblock; so instead that statblock gets Steel Wind Strike.
+
+There are two more wind spells, one of which follows a similar dilemma, but as lower spells, I can have both in one and one in the other. Elemental Evil has the one additional spell Warding Wind which serves as a defensive spell. The player handbooks have gust of wind which as mentioned previously is a spell the Wind Caller has so its a guarantee to be on both.
+
+If we're stretching to include druid spells, Wind Walk is great but its level 6 so levitate or fly will have to do. Wind Wall is the final spell with wind in the name and serves as a defensive spell in place of Warding Wind.
+
+Elementalism has an option to Beckon Wind though as a 2025 rules and beyond spell, 2014's statblock doesn't have access to it.
+
+Lets say they have a similar intelligence to get 5th-level spells. 16-17 (+3) + 9th-10th level spellcaster = 12-13 spells prepared (not counting cantrips). The 2014 statblock might look as follows:
+
+Spellcasting. The illager is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The illager has the following wizard spells prepared:
+
+Cantrips (at will): gust, mage hand, message, prestidigitation
+1st level (4 slots): fog cloud, mage armor
+2nd level (3 slots): gust of wind, shatter, warding wind
+3rd level (3 slots): counterspell, fly, wind wall
+4rd level (3 slots): greater invisibility, storm sphere, summon elemental
+5rd level (1 slots): control winds
+
+Alternate
+
+Cantrips (at will): gust, mage hand, message, prestidigitation
+1st level (4 slots): fog cloud, mage armor
+2nd level (3 slots): gust of wind, invisibility, warding wind
+3rd level (3 slots): counterspell, fly, wind wall
+4rd level (3 slots): freedom of movement, storm sphere, summon elemental
+5rd level (1 slots): control winds
+
+I decided to keep greater invisibility though not intentionally. I can't really explain why except that I think it can essentially be described as striking as one with the wind or something like that. I could also use regular invisibility instead to make it seem like its hiding with the wind only to appear to strike. If 2nd level invisibility were to be used instead, 4th level greater invisibility could be replaced with freedom of movement. In terms of other spells, I picked storm sphere as if any of the spellcasters were to control the weather if they were higher spellcaster levels, it would be the Wind Caller and storm sphere from Elemental Evil is essentially a storm in a ball. Summon elemental as one of the elemental spellcasters. 2025 specifies what they summon but I can't remember if 2014 did. Fly as in game it moves through the air (more like levitation but I'll leave levitation to the Illager Mage (whom I'll rename Illager Psychic). Shatter as with lightning comes thunder. Shatter could be swapped with invisibility if needed. Feather fall is there if it falls and doesn't have fly available and fog cloud as a control effect. Gust, is a small gust of wind, and I consider message to be like a message in the wind. Everything else is transferred down from the Illusionist.
+
+The 2025 version looks as follows.
+
+Spellcasting. The illager casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (spell save DC 14, +6 to hit with spell attacks):</p>
+
+At will: Detect Magic, Elementalism, Mage Armor (included in AC), Mage Hand, Prestidigitation
+2/day: Gust of Wind, Invisibility
+1/day: Steel Wind Strike, Fly
+
+Way simpler by comparison with just the essentials though some spells could be swapped in and out if needed. The at will are all spells Mages in the 2025 monster manual use. In addition to these, the Wind Caller, and the other spellcasters, will inherit the misty step bonus action (3/day or less) as well as protective spells (counterspell and shield; 3/day or less) unless their CR is around CR 2; the mage apprentice at CR 2 doesn't get these.
